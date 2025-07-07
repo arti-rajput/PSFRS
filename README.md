@@ -1,6 +1,6 @@
 # PSFRS: Interactive Geospatial Dashboard for Soil Nutrient Visualization
 
-A browser-based dashboard built using JavaScript, Leaflet.js, and GeoServer for exploring state-wise soil nutrient (NPK) data via raster layers and feature-level interactions. Designed for research visualization and decision-support in soil health monitoring.
+A browser-based dashboard built using JavaScript, OpenLayers, and GeoServer for exploring state-wise soil nutrient (NPK) data via raster layers and feature-level interactions. Designed for research visualization and decision-support in soil health monitoring.
 
 ---
 

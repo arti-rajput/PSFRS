@@ -30,7 +30,7 @@ Developed during work at ICAR-INDIAN INSTITUTE OF SOIL SCIENCE to support resear
 
 ## 🧰 Tech Stack
 
-- **Frontend:** JavaScript, Leaflet.js, HTML/CSS
+- **Frontend:** JavaScript, HTML/CSS
 - **Geospatial Server:** GeoServer
 - **Data Formats:** GeoTIFF (for rasters), Shapefiles / GeoJSON (for vector)
 - **Deployment Option:** Localhost / Remote Web Server

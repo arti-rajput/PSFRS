@@ -37,12 +37,3 @@ Developed during work at ICAR-INDIAN INSTITUTE OF SOIL SCIENCE to support resear
 
 ---
 
-## ⚙️ Installation & Setup
-
-### 📁 1. Clone & Serve the Dashboard
-```bash
-git clone https://github.com/arti-rajput/PSFRS.git
-cd PSFRS
-# Serve psfrs.html using any local server
-# Example (Python 3):
-python -m http.server 8000
